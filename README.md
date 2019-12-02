@@ -2,7 +2,7 @@
 snaker流程引擎设计器(Eclipse插件)
 背景：最近做OA系统业务需要用工作流,使用的是Eclipse中的Snaker-Designer。
 
-1.下载Snaker-Designer 2.0.0版安装包：链接：https://pan.baidu.com/s/1rnoOKEtNQsEMRyMctuFW5w  提取码：5h2o 。或者通过clone代码仓库，我已经放到代码目录下了
+1. 下载Snaker-Designer 2.0.0版安装包：链接：https://pan.baidu.com/s/1rnoOKEtNQsEMRyMctuFW5w  提取码：5h2o 。或者通过clone代码仓库，我已经放到代码目录下了
 
 2. 将下载的snaker-designer_2.0.0.jar解压;
 
