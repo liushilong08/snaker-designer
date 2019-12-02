@@ -10,6 +10,6 @@ snaker流程引擎设计器(Eclipse插件)
 
 4. 启动eclipse, 可以看到已经加载成功
 
-file->new->other->snaker->创建你需要的文件
+5. file->new->other->snaker->创建你需要的文件
 
 附上eclipse免安装包:https://pan.baidu.com/s/15Iazr_TjSYP94ocoke9K7A
